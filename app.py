@@ -9,7 +9,7 @@ st.set_page_config(
 
 st.title('Página demo ECOP06')
 
-esportes = pd.read_csv('https://github.com/MainakRepositor/Datasets/raw/master/GeneralEsportData.csv',
+esportes = pd.read_csv('https://www.instagram.com/_dudalara/',
         encoding='latin-1')                
 
 st.dataframe(esportes)
